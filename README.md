@@ -1,1 +1,1 @@
-tarting out the haskell journey with yesod.
+Starting out the haskell journey with yesod.
